@@ -38,6 +38,7 @@ Pastikan folder-folder berikut ada di direktori `/webapps/`:
 ## Struktur Database
 
 Tabel: `berkas_digital_perawatan`
+
 - no_rawat (VARCHAR)
 - kode (VARCHAR) - Kode jenis berkas (EEG, HBA1C, MMSE, dll)
 - lokasi_file (VARCHAR) - Path relative file
